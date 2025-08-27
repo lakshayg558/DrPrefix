@@ -1,5 +1,5 @@
 # DrPrefix
-# 🩺 Medical Terminology Parser
+# Medical Terminology Parser
 
 A Python project that parses medical terminology reference PDFs to build structured dictionaries of **prefixes, roots, and suffixes**. Once the dictionaries are built, the tool lets you input a medical word and automatically decomposes it into its component parts.  
 
